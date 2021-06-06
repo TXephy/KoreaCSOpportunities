@@ -8,5 +8,7 @@ A reference table for software engineering opportunities in Korea
 | Presto Labs    | prestolabs.io     | Temirlan              |       | ?           |
 | OnSquare       | o-n2.com          | Birzhan, Bayan        |       | ?           |
 | Lablup         | lablup.com        |                       |       | ?           |
-| Coupang        | coupang.com       | Sujin Park (Linkedin) |       |             |
+| Coupang        | coupang.com       | Sujin Park (Linkedin) |       | ?           |
+| Sendbird       | sendbird.com      | Jade Kang (Linkedin)  |       | ?           |
+| PUBG           | pubg.com          | Ask Aidar Mynbay      |       | ?           |
 

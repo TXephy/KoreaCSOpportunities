@@ -3,7 +3,7 @@ A reference table for software engineering opportunities in Korea
 
 | Company name   | Homepage          | Points of contact     | Notes | Internship? |
 | -------------  | -------------     | --------------------  | ----- | ----------- |
-| Streami        | streami.co        | Me, Bake, Duka, Alim  |       | ?           |
+| Streami        | streami.co        | Me, Bake, Duka, Alim  |       | Not yet     |
 | Seoul Robotics | seoulrobotics.org | Anuar                 |       | ?           |
 | Presto Labs    | prestolabs.io     | Temirlan              |       | ?           |
 | OnSquare       | o-n2.com          | Birzhan, Bayan        |       | ?           |
